@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258256495986",
+    "project_id": "mehrs-kitchens",
+    "storage_bucket": "mehrs-kitchens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258256495986:android:2ec569d790123df18669eb",
+        "android_client_info": {
+          "package_name": "com.example.mehrs_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258256495986-n95ram6af54iesq940874nc4plr2oabh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQfz6qgB43ryp0-U7A2XOtinr4YkI4XPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258256495986-n95ram6af54iesq940874nc4plr2oabh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
